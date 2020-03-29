@@ -81,7 +81,7 @@ for (let i = 0; i < cats.length; i++) {
 
 const name = document.querySelector("name");
 name.innerHTML = console.log(name);
-// question 10
+// question 10.
 
 // I have a feealing this issent the right way to to it I think i should use let/if but i did not manage to get this right.
 
