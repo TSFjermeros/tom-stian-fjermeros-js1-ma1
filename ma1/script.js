@@ -61,9 +61,29 @@ for (let i = 0; i < cats.length; i++) {
 	console.log(name);
 // question 9
 
+// I did not manage to finsih this question. I think maybe this is all wrong.
+const cats = [
+	{
+		name: "Blob",
+		age: 10
+	},
+	{
+		name: "Harold"
+	},
+	{
+		name: "Blurt",
+		age: 21
+	}
+];
+for (let i = 0; i < cats.length; i++) {
+	console.log(cats[i].name);
+}
+
+const name = document.querySelector("name");
+name.innerHTML = console.log(name);
 // question 10
 
-// I have a feealing this issent the right way to to it I think i should use let/if 
+// I have a feealing this issent the right way to to it I think i should use let/if but i did not manage to get this right.
 
 const cats = [
 	{
